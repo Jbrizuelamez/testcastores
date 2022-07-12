@@ -1,0 +1,12 @@
+El ejecicio 1 está en la DB del ejercicio 2.
+
+Crear la base de datos con el nombre 
+testcastores
+
+si usted maneja alguna configuración en 
+la conexión de la DB(server, usuario y/o pass)
+realizar los cambios en los archivos
+conexión.php y php/back.php
+
+la aplicación maneja materialize y sweetalert2
+configurados con node.
