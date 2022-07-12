@@ -1,0 +1,13 @@
+.-b-text-undexpanded {
+    display: -webkit-box;
+    height: 105.2px;
+    -webkit-line-clamp: 5; /* Número de líneas */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.3;
+}
+  
+.-b-expander {
+    line-height: 1.3;
+}
